@@ -116,25 +116,25 @@ conference:
       duration: 300 # in seconds
       pause: 10 # in seconds
 
-  talks:
-    # Talk tracks
-    tracks:
-      - name: Track A
-        color: info
-      - name: Track B
-        color: success
-      - name: Cat A
-        color: success
-      - name: Cat B
-        color: success
-
-    # Talk tags
-    tags:
-      - name: No recording
-        icon: video-slash
-
-    # Hide icons on talk overview page
-    hide_link_icons: false
+  #talks:
+    ## Talk tracks
+    #tracks:
+      #- name: Track A
+        #color: info
+      #- name: Track B
+        #color: success
+      #- name: Cat A
+        #color: success
+      #- name: Cat B
+        #color: success
+#
+    ## Talk tags
+    #tags:
+      #- name: No recording
+        #icon: video-slash
+#
+    ## Hide icons on talk overview page
+    #hide_link_icons: false
 
   speakers:
     # Show first and last name
