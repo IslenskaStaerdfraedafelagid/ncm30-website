@@ -59,7 +59,7 @@ conference:
   tz: "+02:00"
 
   # Show theme errors:
-  show_errors: True
+  show_errors: False
 
   # Navigation bar
   navigation:
