@@ -21,16 +21,16 @@ exclude:
   - purgecss.config.js
 
 # Collections and their defaults
-#collections:
-  #talks:
-    #output: true
-    #permalink: /:collection/:title/
-  #speakers:
-    #output: true
-    #permalink: /:collection/:title/
-  #rooms:
-    #output: true
-    #permalink: /:collection/:title/
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:title/
+  speakers:
+    output: true
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
 
 defaults:
   - scope:
@@ -71,8 +71,8 @@ conference:
     links:
       - name: Program
         relative_url: /program/
-      - name: Talks
-        relative_url: /talks/
+      #- name: Talks
+        #relative_url: /talks/
       - name: Plenary speakers
         relative_url: /speakers/
       - name: Special sessions
