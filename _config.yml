@@ -77,7 +77,7 @@ conference:
         relative_url: /speakers/
       - name: Special sessions
         relative_url: /sessions/
-      - name: Location
+      - name: Locations
         relative_url: /location/
 
   # Link Preview for Sharing
