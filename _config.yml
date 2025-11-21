@@ -71,8 +71,8 @@ conference:
     links:
       - name: Program
         relative_url: /program/
-      #- name: Talks
-        #relative_url: /talks/
+      - name: Practical information
+        relative_url: /info/
       - name: Plenary speakers
         relative_url: /speakers/
       - name: Special sessions
