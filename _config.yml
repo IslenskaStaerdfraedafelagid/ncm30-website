@@ -21,16 +21,16 @@ exclude:
   - purgecss.config.js
 
 # Collections and their defaults
-collections:
-  talks:
-    output: false
-    permalink: /:collection/:title/
-  speakers:
-    output: false
-    permalink: /:collection/:title/
-  rooms:
-    output: false
-    permalink: /:collection/:title/
+#collections:
+  #talks:
+    #output: true
+    #permalink: /:collection/:title/
+  #speakers:
+    #output: true
+    #permalink: /:collection/:title/
+  #rooms:
+    #output: true
+    #permalink: /:collection/:title/
 
 defaults:
   - scope:
