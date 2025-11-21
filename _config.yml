@@ -119,10 +119,10 @@ conference:
   talks:
     # Talk tracks
     tracks:
-      - name: Track A
-        color: info
-      - name: Track B
-        color: success
+      #- name: Track A
+        #color: info
+      #- name: Track B
+        #color: success
       - name: Cat A
         color: success
       - name: Cat B
