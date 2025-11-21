@@ -63,10 +63,10 @@ conference:
 
   # Navigation bar
   navigation:
-    logo:
-      name: Digital Society Switzerland
-      # img: ''
-      url: 'https://digitale-gesellschaft.ch/'
+    #logo:
+      #name: NCM30
+      ## img: ''
+      #url: 'https://digitale-gesellschaft.ch/'
     breakpoint: md
     links:
       - name: Program
