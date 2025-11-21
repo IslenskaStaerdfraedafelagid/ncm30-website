@@ -1,4 +1,3 @@
 ---
 name: Hof
-hide: true
 ---
