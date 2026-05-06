@@ -3,7 +3,7 @@ name: Hof
 ---
 The plenary talks will take place in Hof Cultural Center in downtown Akureyri.
 
-![Hof Cultural Center]({{ '/assets/images/hof.jpg'   relative_url }}){: width="645" style="max-width: 100%; height: auto;" }
+![Hof Cultural Center]({{ '/assets/images/hof.jpg' |  relative_url }}){: width="645" style="max-width: 100%; height: auto;" }
 
 <p class="attribution">
   Photo by <a href="https://commons.wikimedia.org/w/index.php?title=User:Mario_Falcetti&action=edit&redlink=1">Mario Falcetti</a>, <a href="https://creativecommons.org/licenses/by/4.0/?ref=openverse">CC BY 4.0</a>
