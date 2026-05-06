@@ -2,7 +2,7 @@ title: NCM 30
 preposition: at
 description: >-
   The 30th Nordic Congress of Mathematicians
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ncm30-website" # the subpath of your site, e.g. /blog
 url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
 
