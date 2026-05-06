@@ -3,7 +3,7 @@ preposition: at
 description: >-
   The 30th Nordic Congress of Mathematicians
 baseurl: "/ncm30-website" # the subpath of your site, e.g. /blog
-url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://islenskastaerdfraedafelagid.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 
 
 # Build settings
