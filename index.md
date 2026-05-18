@@ -1,5 +1,7 @@
 ---
 layout: home
 ---
-The 30th Nordic Congress of Mathematicians will be held in the beautiful town of Akureyri.
+The 30th Nordic Congress of Mathematicians will be held in Akureyri, Iceland. The congress will honour the memory of late professor Sigurður Helgason who would have turned 100 years old on September 30th, 2027.  The event will be held in part at Akureyri Junior College, where Sigurður studied and became interested in mathematics. The congress will feature plenary talks honoring his mathematical contributions and personal life. For further reading we recommend this <a href="https://www.ams.org/notices/202410/rnoti-p1349.pdf"> memorial tribute </a> by Fulton Gonzalez and Gestur Ólafsson.
+
+
 
