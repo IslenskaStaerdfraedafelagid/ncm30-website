@@ -77,6 +77,8 @@ conference:
         relative_url: /speakers/
       - name: Special sessions
         relative_url: /sessions/
+      - name: Organization
+        relative_url: /organization
       - name: Locations
         relative_url: /location/
 
