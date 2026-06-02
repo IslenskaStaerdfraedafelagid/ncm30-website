@@ -21,12 +21,15 @@ layout: default
 * Steffen Oppermann
 
 ## In collaboration with
-![MA]({{ '/assets/images/isf.png' | relative_url }}){: width="200" style="float: left; margin: 10px 20px 10px 0; max-width: 100%; height: auto; display: block;" }
+![MA]({{ '/assets/images/isf.png' | relative_url }}){: width="200" margin: 10px 20px 10px 0; max-width: 100%; height: auto; display: block;" }
+
 
 ## Contact
 
 Icelandic Mathematical Society
 
 Dunhagi 5, 107 Reykjavík
+
 https://stae.is
+
 isf@stae.is
