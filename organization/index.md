@@ -1,5 +1,7 @@
-
+---
+layout: default
+---
 
 # Organising committee 
 
-# SCientific committee
+# Scientific committee
