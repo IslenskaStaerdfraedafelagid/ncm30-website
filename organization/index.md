@@ -15,9 +15,9 @@ layout: default
 
 # Scientific committee
 * Finnur Lárusson
+* Mikko Salo
 * Pavel Kurasov
 * Simon Kristensen
-* Mikko Salo
 * Steffen Oppermann
 
 ## In collaboration with
