@@ -4,7 +4,7 @@ layout: default
 
 The city of Akureyri 
 <a href="https://www.visitakureyri.is/en/plan-your-visit/transport" target="_blank">
-  <img src="/assets/images/visitakureyri.jpg"
+  <img src="/assets/images/visitakureyri.png"
        alt="Visit Akureyri"
        style="max-width:100%; height:auto;">
 </a>
