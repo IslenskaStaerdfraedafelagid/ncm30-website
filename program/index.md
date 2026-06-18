@@ -10,7 +10,6 @@ layout: default
 
 Preliminary program: 
 
--------------------------------------------------------------------------------------
 |	June 20th         | June 21st         | June 22nd           | June 23rd         |
 | Sunday              | Monday            | Tuesday             | Wednesday         |
 -------------------------------------------------------------------------------------
@@ -24,6 +23,5 @@ Preliminary program:
 | 15:30-17:00		  | Parallel sessions |                     | Parallel sessions |
 | 19:00-21:00         | Conference dinner |                     |                   |
 | 21:00-23:59         |                   |                     | Midnight walk     |
--------------------------------------------------------------------------------------
 				
 
