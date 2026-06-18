@@ -80,10 +80,17 @@ layout: default
     </tr>
     <tr>
       <td>17:00-18:00</td>
-      <th>Honorary talk</th>
-      <th> </th>
-      <th> </th>
-      <th> </th>
+      <td>Honorary talk</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>18:00-19:00</td>
+      <td>Reception</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td>19:00-21:00</td>
