@@ -36,13 +36,13 @@ A few direct flights between mainland Europe and Akureyri are also available, al
 
 
 # Travelling domestically to Akureyri
-<ul  style="line-height: 1.8;>
+<ul  style="line-height: 1.8;">
   <li>
     A flight from Reykjavík Domestic Airport to Akureyri takes about 40 minutes. The domestic airport is located close to downtown Reykjavík, so travelers arriving at Keflavík International Airport must first travel to Reykjavík. Airport buses from Keflavík are synchronized with flight arrivals.
   </li>
 
   <li>
-    Car rental offices are located at Keflavík Airport. Driving to Akureyri via Route 41 through Reykjavík and then Route 1 takes approximately 5 hours.
+    Car rental offices are located at Keflavík Airport. Driving to Akureyri via Route 41 through Reykjavík and then Route 1 takes approximately 6 hours.
   </li>
 
   <li>
