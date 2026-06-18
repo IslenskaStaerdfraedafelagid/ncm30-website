@@ -3,23 +3,26 @@ layout: default
 ---
 
 # Location of the Congress
+<div>
+  <a href="https://www.visitakureyri.is/en/plan-your-visit/transport" target="_blank">
+    <img src="https://IslenskaStaerdfraedafelagid.github.io/ncm30-website/assets/images/kortisland.png"
+         alt="Visit Akureyri"
+         style="float:right; width:30%; margin: 0 0 10px 15px;">
+  </a>
 
-Akureyri is situated in North Iceland, about 400 km from the capital Reykjavik.
+  Akureyri is situated in North Iceland, about 400 km from the capital Reykjavik.<br><br>
 
-<a href="https://www.visitakureyri.is/en/plan-your-visit/transport" target="_blank">
-  <img src="https://IslenskaStaerdfraedafelagid.github.io/ncm30-website/assets/images/kortisland.png"
-       alt="Visit Akureyri"
-       style="max-width:30%; height:auto;">
-</a>
+  Coming from Nordic countries, it is easier to fly through Keflavík International Airport (situated 40 km south-west of Reykjavík) and travel domestically to Akureyri.
+</div>
 
 # How to get there
 
-The website Visit Akureyri displays all necessary informations on transportation to and from Akureyri.
+The website Visit Akureyri displays all necessary informations regarding transportation to and from Akureyri.
 
 <a href="https://www.visitakureyri.is/en/plan-your-visit/transport" target="_blank">
   <img src="https://IslenskaStaerdfraedafelagid.github.io/ncm30-website/assets/images/visitakureyri.png"
        alt="Visit Akureyri"
-       style="max-width:30%; height:auto;">
+       style="max-width:50%; height:auto;">
 </a>
 
 # Travelling to Iceland
