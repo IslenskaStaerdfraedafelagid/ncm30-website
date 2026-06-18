@@ -4,7 +4,6 @@ layout: default
 
 # Preliminary program: 
 
-
 | June 20th           | June 21st         | June 22nd           | June 23rd         |
 | Sunday              | Monday            | Tuesday             | Wednesday         |
 | ------------------- | ----------------- | ------------------- | ----------------- |
