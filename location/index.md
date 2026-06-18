@@ -1,6 +1,6 @@
 ---
 layout: location
-hide: true
+room.hide: true
 ---
 
 Here is the University of Akureyri.
