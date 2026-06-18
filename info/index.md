@@ -15,9 +15,9 @@ layout: default
   Coming from Nordic countries, it is easier to fly through Keflavík International Airport (situated 40 km south-west of Reykjavík) and travel domestically to Akureyri.
 </div>
 
-# How to get there
+# Official website
 
-The website Visit Akureyri displays all necessary informations regarding transportation to and from Akureyri.
+The city of Akureyri maintains the website <b>Visit Akureyri</b> which displays all necessary informations regarding transportation to and from Akureyri.
 
 <a href="https://www.visitakureyri.is/en/plan-your-visit/transport" target="_blank">
   <img src="https://IslenskaStaerdfraedafelagid.github.io/ncm30-website/assets/images/visitakureyri.png"
