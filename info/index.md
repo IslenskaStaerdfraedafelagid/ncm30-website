@@ -10,9 +10,8 @@ layout: default
          style="float:right; width:30%; margin: 0 0 10px 15px;">
   </a>
 
-  Akureyri is situated in North Iceland, about 400 km from the capital Reykjavik.<br><br>
-
-  Coming from Nordic countries, it is easier to fly through Keflavík International Airport (situated 40 km south-west of Reykjavík) and travel domestically to Akureyri.
+  Akureyri is situated in North Iceland, about 400 km from the capital Reykjavik.
+  
 </div>
 
 <div style="margin-top:60px;"></div>
@@ -31,11 +30,14 @@ The city of Akureyri maintains the website <b>Visit Akureyri</b> which displays 
 
 Keflavík International Airport is Iceland's main transportation hub, with direct connections to all major Nordic capitals. International travellers can book a single ticket to Akureyri with Icelandair, connecting via Reykjavik. Multiple daily flights operate between Reykjavik and Akureyri year-round. 
 
-Keflavik Airport is situated about 50 km from Reykjavik. The travel from Keflavík Airport to the city center takes approximately 45 minutes and regular airport buses operate in sync with flight arrivals.
+A few direct flights between mainland Europe and Akureyri are also available, although not directly from Scandinavia. Options can be checked on the website of <a href="https://www.innanlandsflugvellir.is/en/akureyri-airport">Akureyri Airport/a>
 
-# Travelling to Akureyri
+# Travelling domestically to Akureyri
 
-There are several transportation options between Akureyri and Reykjavík. The flight from Reykjavík to Akureyri takes about 40 minutes, while driving along Route 1 (approximately 386 km) takes around 4–5 hours. Public bus route 57 operates between Akureyri and Reykjavík.
+There are several transportation options to come to Akureyri. 
+The flight from Reykjavík Domestic Airport to Akureyri takes about 40 minutes. 
+
+while driving along Route 1 (approximately 386 km) takes around 4–5 hours. Public bus route 57 operates between Akureyri and Reykjavík.
 
 A handful of direct flights from mainland Europe directly to Akureyri exist as well.
 
