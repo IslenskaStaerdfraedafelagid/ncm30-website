@@ -5,18 +5,9 @@ layout: default
 # Preliminary program: 
 
 
-bleh 
-
-| Column 1      | Column 2      |
-| ------------- | ------------- |
-| Cell 1, Row 1 | Cell 2, Row 1 |
-| Cell 1, Row 2 | Cell 1, Row 2 |
-
-
-
 | June 20th           | June 21st         | June 22nd           | June 23rd         |
--------------------------------------------------------------------------------------
 | Sunday              | Monday            | Tuesday             | Wednesday         |
+| ------------------- | ----------------- | ------------------- | ----------------- |
 | 8:30-9:30		      | Plenary talk      | Plenary talk        | Plenary talk      |
 | 9:30-10:00		  | Coffee            | Coffee              | Coffee            |
 | 10:00-11:00		  | Plenary talk      | Plenary talk        | Plenary talk      |
