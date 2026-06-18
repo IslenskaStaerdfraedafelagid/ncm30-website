@@ -49,11 +49,3 @@ A few direct flights between mainland Europe and Akureyri are also available, al
 </ul>
 
 
-## Hotels
-
-<a href="https://www.visitakureyri.is/en/plan-your-visit/accommodation#guesthouses-apartments" target="_blank">
-  <img src="https://IslenskaStaerdfraedafelagid.github.io/ncm30-website/assets/images/visitakureyri.png"
-       alt="Visit Akureyri"
-       style="max-width:50%; height:auto; border:1px solid #ccc; border-radius:8px; padding:4px; background:#fff;">
-</a>
-
