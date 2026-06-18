@@ -4,6 +4,16 @@ layout: default
 
 # Preliminary program: 
 
+
+bleh 
+
+| Column 1      | Column 2      |
+| ------------- | ------------- |
+| Cell 1, Row 1 | Cell 2, Row 1 |
+| Cell 1, Row 2 | Cell 1, Row 2 |
+
+
+
 | June 20th           | June 21st         | June 22nd           | June 23rd         |
 | Sunday              | Monday            | Tuesday             | Wednesday         |
 -------------------------------------------------------------------------------------
