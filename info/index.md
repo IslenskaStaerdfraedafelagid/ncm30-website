@@ -7,7 +7,7 @@ layout: default
   <a href="https://www.visitakureyri.is/en/plan-your-visit/transport" target="_blank">
     <img src="https://IslenskaStaerdfraedafelagid.github.io/ncm30-website/assets/images/kortisland.png"
          alt="Visit Akureyri"
-         style="float:right; width:50%; margin: 0 0 10px 15px;">
+         style="float:right; width:40%; margin: 0 0 10px 15px;">
   </a>
 
   Akureyri is situated in North Iceland, about 400 km from the capital Reykjavik.
