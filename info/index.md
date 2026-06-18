@@ -2,11 +2,20 @@
 layout: default
 ---
 
-The city of Akureyri 
+# Location of the Congress
+
+Akureyri is situated in North Iceland, about 400 km from the capital Reykjavik.
+
+<img src="assets/images/kortisland.jpg"
+     alt="Map of Iceland"
+     style="max-width:100%; height:auto;">
+
+The website Visit Akureyri 
+
 <a href="https://www.visitakureyri.is/en/plan-your-visit/transport" target="_blank">
   <img src="/assets/images/visitakureyri.png"
        alt="Visit Akureyri"
-       style="max-width:100%; height:auto;">
+       style="max-width:30%; height:auto;">
 </a>
 
 # Travelling to Iceland
