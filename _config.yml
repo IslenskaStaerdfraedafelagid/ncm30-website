@@ -71,8 +71,6 @@ conference:
     links:
       - name: Program
         relative_url: /program/
-      - name: Practical information
-        relative_url: /info/
       - name: Speakers
         relative_url: /speakers/
       - name: Special sessions
@@ -81,6 +79,12 @@ conference:
         relative_url: /organization
       - name: Locations
         relative_url: /location/
+      - name: Practical information
+        relative_url: /info/
+      - name: Registration
+        relative_url: /registration/
+      
+      
 
   # Link Preview for Sharing
   link_preview:
