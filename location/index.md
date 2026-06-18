@@ -53,10 +53,4 @@ An overview of the rooms in Akureyri Junior College
 
 <br/>
 
-<iframe
-  width="645"
-  height="516"
-  src="https://www.ma.is/static/files/skolinn/MA/ma-yfirlitskort_70x50cm_2023.pdf"
-  style="border: 1px solid black; width: 100%; max-width: 645px;"
-  frameborder="0"
-></iframe>
+![MA]({{ '/assets/images/yfirlit.png' | relative_url }}){: width="645" style="max-width: 100%; height: auto; display: block;" }
