@@ -108,3 +108,18 @@ layout: default
     </tr>
   </tbody>
 </table>
+
+# Plenary speakers
+
+* Robert Burklund
+* Thierry Coquand
+* Eleonora Di Nezza
+* Jessica Fintzen
+* Lauri Oksanen
+* Tuomas Orponen
+* Petar Sarnak
+* Ragnar Sigurðsson
+* Anna-Karin Tornberg
+* Gestur Ólafsson
+
+
