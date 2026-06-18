@@ -12,7 +12,7 @@ layout: default
 | 9:30-10:00		  | Coffee            | Coffee              | Coffee            |
 | 10:00-11:00		  | Plenary talk      | Plenary talk        | Plenary talk      |
 | 11:00-12:00		  | Plenary talk      | Plenary talk        | Plenary talk      |
-| 12:00-13:30		  | Launch            | Launch              | Launch            |
+| 12:00-13:30		  | Lunch             | Lunch               | Lunch             |
 | 13:30-15:00		  | Parallel sessions | Parallel sessions   | Parallel sessions |
 | 15:00-15:30		  | Coffee            | Excursion/Free time | Coffee            |
 | 15:30-17:00		  | Parallel sessions |                     | Parallel sessions |
