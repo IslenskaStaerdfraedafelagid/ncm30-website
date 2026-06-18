@@ -2,16 +2,13 @@
 layout: default
 ---
 
-Here practical information will be listed; including suggestions regarding travel and lodging.
+The city of Akureyri 
 
 # Travelling to Iceland
 
-Keflavík International Airport is Iceland's main transportation hub, with direct connections to all major Nordic capitals. International travelers can book a single ticket to Akureyri with Icelandair, connecting via Reykjavik. Multiple daily flights operate between Reykjavik and Akureyri year-round. 
+Keflavík International Airport is Iceland's main transportation hub, with direct connections to all major Nordic capitals. International travellers can book a single ticket to Akureyri with Icelandair, connecting via Reykjavik. Multiple daily flights operate between Reykjavik and Akureyri year-round. 
 
-The airport is situated about 50 km from Reykjavik. The travel from Keflavík Airport to the city center takes approximately 45 minutes and regular airport buses operate in sync with flight arrivals.
-
-The Flybus service (https://flybus.is/) takes passengers to the BSÍ bus terminal in downtown Reykjavík, within walking distance of numerous car rental offices and the domestic airport.
-
+Keflavik Airport is situated about 50 km from Reykjavik. The travel from Keflavík Airport to the city center takes approximately 45 minutes and regular airport buses operate in sync with flight arrivals.
 
 # Travelling to Akureyri
 
