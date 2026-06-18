@@ -16,9 +16,7 @@ layout: default
 
 <div style="margin-top:30px;"></div>
 
-# Official website
-
-The city of Akureyri maintains the website <b>Visit Akureyri</b> which displays all necessary informations regarding transportation to and from Akureyri.
+The city of Akureyri maintains the website <b>Visit Akureyri</b> which displays practical informations regarding transportation to and from Akureyri, as well as accommodation in town.
 
 <a href="https://www.visitakureyri.is/en/plan-your-visit/transport" target="_blank">
   <img src="https://IslenskaStaerdfraedafelagid.github.io/ncm30-website/assets/images/visitakureyri.png"
@@ -52,3 +50,10 @@ A few direct flights between mainland Europe and Akureyri are also available, al
 
 
 ## Hotels
+
+<a href="https://www.visitakureyri.is/en/plan-your-visit/accommodation#guesthouses-apartments" target="_blank">
+  <img src="https://IslenskaStaerdfraedafelagid.github.io/ncm30-website/assets/images/visitakureyri.png"
+       alt="Visit Akureyri"
+       style="max-width:50%; height:auto; border:1px solid #ccc; border-radius:8px; padding:4px; background:#fff;">
+</a>
+
