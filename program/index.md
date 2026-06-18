@@ -75,7 +75,7 @@ layout: default
       <td>15:30-17:00</td>
       <th> </th>
       <td>Parallel sessions</td>
-      <td> </td>
+      <td>- </td>
       <td>Parallel sessions</td>
     </tr>
     <tr>
