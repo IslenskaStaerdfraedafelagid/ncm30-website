@@ -28,7 +28,7 @@ The city of Akureyri maintains the website <b>Visit Akureyri</b> which displays 
 
 Keflavík International Airport is Iceland's main transportation hub, with direct connections to all Nordic capitals. International travellers can book a single ticket to Akureyri with Icelandair, connecting via Reykjavik. Multiple daily flights operate between Reykjavik and Akureyri year-round. 
 
-A few direct flights between mainland Europe and Akureyri are also available, although not directly from Scandinavia. Options can be checked on the website of <a href="https://www.innanlandsflugvellir.is/en/akureyri-airport">
+A few direct flights between mainland Europe and Akureyri are also available. Options can be checked on the website of <a href="https://www.innanlandsflugvellir.is/en/akureyri-airport">
   Akureyri Airport
 </a>
 
