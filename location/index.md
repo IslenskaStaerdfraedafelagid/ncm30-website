@@ -56,4 +56,6 @@ An overview of the rooms in Akureyri Junior College
 
 <br/>
 
-![MA]({{ '/assets/images/yfirlit.png' | relative_url }}){: width="645" style="max-width: 100%; height: auto; display: block;" }
+<a href="{{ '/assets/images/yfirlit.png'   relative_url }}">
+  <img src="{{ '/assets/images/yfirlit.png' | relative_url }}" alt="MA" width="645" style="max-width: 100%; height: auto; display: block;" />
+</a>
