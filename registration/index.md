@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Registration 
-
 ## Registration form 
 
 * [Registration link](https://docs.google.com/forms/d/e/1FAIpQLScmWGpLG6n6qVNZHhfiJAn1q7fYPbVGdXTu4WHPJ782NRvIoQ/viewform)
