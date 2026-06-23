@@ -5,12 +5,12 @@ layout: default
 # Registration form 
 
 * Please do not use the registration form or the payment link if you are a **plenary speaker** or from the scientific committee.
-* After filling out the registration form above please use the payment link below to pay the registration fee.
+* After filling out the registration form below please use the payment link below to pay the registration fee which validates the registration.
 * For technical questions concerning registration please contact [mailto:isf@stae.is](isf@stae.is).
 
 # Fees
 
-The congress fee covers participation in the program, refreshments during breakes and conference dinner on June 21st. Participants must make their own arrangements for accommodation and travel, see [Practical information](https://ncm30.github.io/info/ ) for information about hotels and flights.
+The congress fee covers participation in the program, refreshments during breaks and conference dinner on June 21st. Participants must make their own arrangements for accommodation and travel, see [Practical information](https://ncm30.github.io/info/ ) for information about hotels and flights.
 
 ## Early bird -- Until April 30 2027
 
