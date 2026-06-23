@@ -73,7 +73,7 @@ conference:
         relative_url: /program/
       - name: Speakers
         relative_url: /speakers/
-      - name: Special sessions
+      - name: Parrallel sessions
         relative_url: /sessions/
       - name: Organization
         relative_url: /organization
