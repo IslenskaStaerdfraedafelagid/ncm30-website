@@ -37,14 +37,18 @@ The parallel sessions will take place in Akureyri Junior College - Menntaskólin
   Photo by Karl Frímannsson.
 </p>
 
+
+
 <div style="max-width: 645px; margin: 0;">
-<iframe>
-  src="https://www.openstreetmap.org/export/embed.html?bbox=-18.0992728471756%2C65.67554404902457%2C-18.090957999229435%2C65.67755030782926&amp;layer=mapnik"
-  style="border: 1px solid black; width: 90%; height: 484px;"
-  frameborder="0"
-></iframe>
-<br/>
-<small><a href="https://www.openstreetmap.org/?#map=18/65.676547/-18.095115">View Larger Map</a></small>
+  <iframe
+    src="https://www.openstreetmap.org/export/embed.html?bbox=-18.0992728471756%2C65.67554404902457%2C-18.090957999229435%2C65.67755030782926&amp;layer=mapnik"
+    style="border: 1px solid black; width: 90%; height: 484px;"
+    frameborder="0"
+    allowfullscreen
+  ></iframe>
+  <br/>
+  <small><a href="https://www.openstreetmap.org/?#map=18/65.676547/-18.095115">Larger map</a></small>
+</div>
 
 <br/>
 
