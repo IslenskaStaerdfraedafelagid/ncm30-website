@@ -10,7 +10,7 @@ layout: default
 
 # Fees
 
-The congress fee covers participation in the program, refreshments during brakes and conference dinner on June 21st. Participants must make their own arrangements for accommodation and travel, see [Practical information](https://ncm30.github.io/info/ ) for information about hotels and flights.
+The congress fee covers participation in the program, refreshments during breakes and conference dinner on June 21st. Participants must make their own arrangements for accommodation and travel, see [Practical information](https://ncm30.github.io/info/ ) for information about hotels and flights.
 
 ## Early bird -- Until April 30 2027
 
@@ -22,6 +22,6 @@ The congress fee covers participation in the program, refreshments during brakes
 * 450EUR for regular participants.
 * 350EUR for students and PhD students.
 
-## [Registration link](https://docs.google.com/forms/d/e/1FAIpQLScmWGpLG6n6qVNZHhfiJAn1q7fYPbVGdXTu4WHPJ782NRvIoQ/viewform)
+## * [Registration link](https://docs.google.com/forms/d/e/1FAIpQLScmWGpLG6n6qVNZHhfiJAn1q7fYPbVGdXTu4WHPJ782NRvIoQ/viewform)
 
-## [Payment link](https://localhost)
+## * [Payment link](https://localhost)
