@@ -61,8 +61,8 @@ layout: default
       <td>13:30-15:00</td>
       <th> </th>
       <td><a href="{{ '/sessions' | relative_url }}">Parallel sessions</a></td>
-      <td>Parallel sessions</td>
-      <td>Parallel sessions</td>
+      <td><a href="{{ '/sessions' | relative_url }}">Parallel sessions</a></td>
+      <td><a href="{{ '/sessions' | relative_url }}">Parallel sessions</a></td>
     </tr>
     <tr>
       <td>15:00-15:30</td>
@@ -74,9 +74,9 @@ layout: default
     <tr>
       <td>15:30-17:00</td>
       <th> </th>
-      <td>Parallel sessions</td>
+      <td><a href="{{ '/sessions' | relative_url }}">Parallel sessions</a></td>
       <td>- </td>
-      <td>Parallel sessions</td>
+      <td><a href="{{ '/sessions' | relative_url }}">Parallel sessions</a></td>
     </tr>
     <tr>
       <td>17:00-18:00</td>
