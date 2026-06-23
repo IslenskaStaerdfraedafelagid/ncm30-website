@@ -2,6 +2,7 @@
 layout: default
 ---
 
+# Venues
 
 
 The plenary talks will take place in Hof Cultural Center in downtown Akureyri.
