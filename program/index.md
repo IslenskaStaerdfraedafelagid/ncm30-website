@@ -32,9 +32,9 @@ layout: default
     <tr>
       <td>9:30-10:00</td>
       <th> </th>
-      <td>Coffee</td>
-      <td>Coffee</td>
-      <td>Coffee</td>
+      <td><i>Coffee</i></td>
+      <td><i>Coffee</i></td>
+      <td><i>Coffee</i></td>
     </tr>
     <tr>
       <td>10:00-11:00</td>
@@ -53,9 +53,9 @@ layout: default
     <tr>
       <td>12:00-13:30</td>
       <th> </th>
-      <td>Lunch</td>
-      <td>Lunch</td>
-      <td>Lunch</td>
+      <td><i>Lunch</i></td>
+      <td><i>Lunch</i></td>
+      <td><i>Lunch</i></td>
     </tr>
     <tr>
       <td>13:30-15:00</td>
@@ -67,9 +67,9 @@ layout: default
     <tr>
       <td>15:00-15:30</td>
       <th> </th>
-      <td>Coffee</td>
+      <td><i>Coffee</i></td>
       <td>Excursion/Free time</td>
-      <td>Coffee</td>
+      <td><i>Coffee</i></td>
     </tr>
     <tr>
       <td>15:30-17:00</td>
