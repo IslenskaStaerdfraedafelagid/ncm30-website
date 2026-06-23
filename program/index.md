@@ -60,7 +60,7 @@ layout: default
     <tr>
       <td>13:30-15:00</td>
       <th> </th>
-      <td><a href="{{ /sessions | absolute_url }}">Parallel sessions</a></td>
+      <td><a href="/sessions">Parallel sessions</a></td>
       <td>Parallel sessions</td>
       <td>Parallel sessions</td>
     </tr>
