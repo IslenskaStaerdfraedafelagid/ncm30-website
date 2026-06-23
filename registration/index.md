@@ -10,7 +10,7 @@ layout: default
 
 # Fees
 
-The congress fee covers participation in the program, refreshments during breaks and conference dinner on June 21st. Participants must make their own arrangements for accommodation and travel, see [Practical information](https://ncm30.github.io/info/ ) for information about hotels and flights.
+The congress fee covers participation in the program, refreshments during breaks and conference dinner on June 21st. Participants must make their own arrangements for accommodation and travel, see <a href="{{ '/info/' | relative_url }}"> Practical information </a> for information about hotels and flights.
 
 ## Early bird -- Until April 30 2027
 
