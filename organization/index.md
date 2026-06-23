@@ -37,6 +37,6 @@ Icelandic Mathematical Society
 
 Dunhagi 5, 107 Reykjavík
 
-https://stae.is
+[stae.is](https://stae.is)
 
 isf@stae.is
