@@ -13,6 +13,7 @@ This page gives information about the parallel sessions.
    - Information about organizers
    - List of possible speakers
 
+## List of sessions 
 
 * Algebraic topology
 * Arithmetic spectral theory and mathematical physics
