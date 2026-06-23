@@ -9,7 +9,7 @@ layout: default
 * [Registration link](https://docs.google.com/forms/d/e/1FAIpQLScmWGpLG6n6qVNZHhfiJAn1q7fYPbVGdXTu4WHPJ782NRvIoQ/viewform)
 * Please do not use this registration form or payment link if you are a **plenary speaker** or from the scientific committee.
 * After filling out the registration form above please use the payment link below to pay the registration fee.
-* For technical questions concerning registation please contact [mailto:isf@stae.is]
+* For technical questions concerning registation please contact [mailto:isf@stae.is](isf@stae.is).
 
 ## Fees
 
