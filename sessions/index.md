@@ -6,12 +6,11 @@ layout: default
 
 After lunch there will be parallel sessions at Akureyri Junior College. 
 
-This page gives information about the parallel sessions.
-* The *Contributed session* is for talks that do not fit into one of the other sessions. Please contact the congress chair at [mailto:isf@stae.is](isf@stae.is) if you wish to give a talk there.
-* Below is a list of confirmed sessions. If you wish to host a session you can submit a proposal to [mailto:isf@stae.is](isf@stae.is) which includes
-   - Topic
-   - Information about organizers
-   - List of possible speakers
+* The *Contributed session* is for talks that do not fit into one of the other sessions. Please contact the congress chair at [isf@stae.is](mailto:isf@stae.is) if you wish to give a talk there.
+* Below is a list of confirmed sessions. If you wish to host a session you can submit a proposal to [isf@stae.is](mailto:isf@stae.is) which includes
+   - Description of the topic of the session.
+   - Information about organizers.
+   - List of possible speakers.
 
 ## List of sessions 
 
