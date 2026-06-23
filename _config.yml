@@ -75,8 +75,6 @@ conference:
         relative_url: /speakers/
       - name: Parallel sessions
         relative_url: /sessions/
-      - name: Organization
-        relative_url: /organization
       - name: Venue
         relative_url: /location/
       - name: Practical information
