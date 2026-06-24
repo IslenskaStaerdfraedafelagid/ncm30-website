@@ -19,7 +19,7 @@ Diverse mathematics will be showcased by early career and established mathematic
 * Sigurður Örn Stefánsson
 
 ## Scientific committee
-* Finnur Lárusson
+* Finnur Lárusson (chair)
 * Mikko Salo
 * Pavel Kurasov
 * Simon Kristensen
