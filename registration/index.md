@@ -4,7 +4,7 @@ layout: default
 
 # Registration form 
 
-* Please do not use the registration form or the payment link if you are a **plenary speaker** or from the scientific committee.
+* Please do not use the registration form or the payment link if you are a *plenary speaker* or from the *scientific committee*.
 * After filling out the registration form below please use the payment link below to pay the registration fee which validates the registration.
 * For technical questions concerning registration please contact [isf@stae.is](mailto:isf@stae.is).
 
