@@ -55,11 +55,11 @@ Some rooms have been reserved (not booked) but we encourage participants to book
 
 ## Hotel Edda Akureyri 
 * Dates currently available through link: June 20. - 24. Contact hotel with questions about other dates.
-* <a href="https://be.synxis.com/?adult=1&altdest=NEAST&arrive=2027-06-19&chain=15503&child=0&config=icelandair&configcode=icelandair&currency=ISK&depart=2027-06-22&group=2706NORR%C3%86N&hotel=59622&level=hotel&locale=en-US&productcurrency=ISK&rooms=1">Booking link.<a>
+* <a href="https://be.synxis.com/?adult=1&altdest=NEAST&arrive=2027-06-20&chain=15503&child=0&config=icelandair&configcode=icelandair&currency=ISK&depart=2027-06-23&group=2706NORR%C3%86N&hotel=59631&level=hotel&locale=en-US&productcurrency=ISK&rooms=1&theme=edda&themecode=edda"> Booking link. <a>
 
 ## Berjaya Iceland Hotels
 * Dates currently available through link: June 19. - 24. Contact hotel with questions about other dates.
-* <a href="https://be.synxis.com/?adult=1&altdest=NEAST&arrive=2027-06-20&chain=15503&child=0&config=icelandair&configcode=icelandair&currency=ISK&depart=2027-06-23&group=2706NORR%C3%86N&hotel=59631&level=hotel&locale=en-US&productcurrency=ISK&rooms=1&theme=edda&themecode=edda"> Booking link. <a>
+* <a href="https://be.synxis.com/?adult=1&altdest=NEAST&arrive=2027-06-19&chain=15503&child=0&config=icelandair&configcode=icelandair&currency=ISK&depart=2027-06-23&group=2706NORR%C3%86N&hotel=59622&level=hotel&locale=en-US&productcurrency=ISK&rooms=1">Booking link.<a>
 
 ## Hotel Kea
 * Dates are flexible and depend on availability. 
