@@ -80,7 +80,7 @@ layout: default
     </tr>
     <tr>
       <td>17:00-18:00</td>
-      <td>Honorary talk</td>
+      <td>Commemorative talk</td>
       <td> </td>
       <td> </td>
       <td> </td>
