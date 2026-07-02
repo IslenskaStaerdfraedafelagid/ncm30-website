@@ -23,5 +23,3 @@ The congress fee covers participation in the program, refreshments during breaks
 * 350EUR for students and PhD students.
 
 ## * [Registration link](https://docs.google.com/forms/d/e/1FAIpQLScmWGpLG6n6qVNZHhfiJAn1q7fYPbVGdXTu4WHPJ782NRvIoQ/viewform)
-
-## * [Payment link](https://localhost)
