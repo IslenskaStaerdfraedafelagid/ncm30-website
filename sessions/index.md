@@ -12,13 +12,13 @@ After lunch there will be parallel sessions at Akureyri Junior College.
   
 ## List of sessions 
 
-* Algebraic topology
-* Arithmetic spectral theory and mathematical physics
-* Complex geometry
-* Formalisation of mathematics
-* Geometric analysis on symmetric spaces
-* Geometric aspects of analysis
-* Mathematics of imaging and inverse problems
-* Number theory
-* Partial differential equations
-* Contributed session
+* <b>Algebraic topology</b>
+* <b>Arithmetic spectral theory and mathematical physics</b>: Organized by Pavel Kurasov and Tuomas Sahlsten
+* <b>Complex analysis and geometry</b>: Organized by Álfheiður Edda Sigurðardóttir, Håkan Samuelsson Kalm, Jakob Hultgren and Zakarias Sjöström Dyrefelt
+* <b>Formalisation of mathematics</b>: Organized by Peter LeFanu Lumsdaine, Rasmus Ejlers Møgelberg and Tarmo Uustalu
+* <b>Geometric analysis on symmetric spaces</b>: Organized by Katrin Fässler and Pekka J. Pankka
+* <b>Geometric aspects of analysis</b>: Organized by Genkai Zhang, Gestur Ólafsson and Jan Frahm
+* <b>Mathematics of imaging and inverse problems</b>: Organized by Hyvönen Nuutti and Kim Knudsen
+* <b>Number theory</b>: Organized by Andrii Bondarenko and Fabien Pazuki
+* <b>Partial differential equations</b>: Organized by Didier Pilod and Ulrik Skre Fjordholm
+* <b>Contributed session</b>
