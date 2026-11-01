@@ -1,4 +1,7 @@
 ---
-layout: default
+layout: session
+title: Mathematics of quantum theory
+organizers:
+  - Søren Fournais
+  - Jan Philip Solovej
 ---
-Organized by Søren Fournais and Jan Philip Solovej.

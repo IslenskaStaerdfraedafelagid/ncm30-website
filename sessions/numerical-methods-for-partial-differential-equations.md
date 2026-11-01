@@ -1,4 +1,8 @@
 ---
 layout: default
+title: Numerical methods for partial differential equations
+organizers:
+  - Antti Hannukainen
+  - Rolf Stenberg
+  - Juha Videman
 ---
-Organized by Antti Hannukainen, Rolf Stenberg and Juha Videman.

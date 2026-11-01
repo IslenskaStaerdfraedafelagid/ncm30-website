@@ -1,4 +1,7 @@
 ---
-layout: default
+layout: session
+title: Mathematics of imaging and inverse problems
+organizers:
+  - Hyvönen Nuutti
+  - Kim Knudsen
 ---
-Organized by Hyvönen Nuutti and Kim Knudsen.

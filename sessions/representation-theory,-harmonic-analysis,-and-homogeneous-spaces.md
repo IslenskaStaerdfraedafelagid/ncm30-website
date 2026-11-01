@@ -1,4 +1,8 @@
 ---
-layout: default
+layout: session
+title: Representation theory, harmonic analysis, and homogeneous spaces
+organizers:
+  - Genkai Zhang
+  - Gestur Ólafsson
+  - Jan Frahm
 ---
-Organized by Genkai Zhang, Gestur Ólafsson and Jan Frahm.

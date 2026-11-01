@@ -1,4 +1,9 @@
 ---
-layout: default
+layout: session
+title: Geometric aspects of analysis
+organizers:
+  - Katrin Fässler
+  - Pekka J. Pankka
+  - Toumas Orponen
+  - Villa Suomala.
 ---
-Organized by Katrin Fässler, Pekka J. Pankka, Toumas Orponen and Villa Suomala.

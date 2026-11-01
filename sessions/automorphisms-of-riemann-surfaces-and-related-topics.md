@@ -1,4 +1,9 @@
 ---
-layout: default
+layout: session
+title: Automorphisms of Riemann surfaces and related topics
+subtitle: in Honor to S. Allen Broughton
+organizers:
+ - Antonio F. Costa
+ - Milagros Izquierdo
+ - Aaron Wootton
 ---
-Organized by Antonio F. Costa, Milagros Izquierdo and Aaron Wootton.

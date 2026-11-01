@@ -1,4 +1,9 @@
 ---
 layout: default
+title: Complex analysis and geometry
+organizers:
+ - Álfheiður Edda Sigurðardóttir
+ - Håkan Samuelsson Kalm
+ - Jakob Hultgren
+ - Zakarias Sjöström Dyrefelt
 ---
-Organized by Álfheiður Edda Sigurðardóttir, Håkan Samuelsson Kalm, Jakob Hultgren and Zakarias Sjöström Dyrefelt.

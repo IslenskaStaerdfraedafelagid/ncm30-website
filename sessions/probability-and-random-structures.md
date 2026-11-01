@@ -1,4 +1,7 @@
 ---
-layout: default
+layout: session
+title: Probability and random structures
+organizers:
+  - Jakob Björnberg
+  -  Sigurður Örn Stefánsson. 
 ---
-rganized by Jakob Björnberg and Sigurður Örn Stefánsson. 

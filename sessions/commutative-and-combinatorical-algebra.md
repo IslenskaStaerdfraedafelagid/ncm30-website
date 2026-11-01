@@ -1,4 +1,8 @@
 ---
-layout: default
+layout: session
+tile: Commutative and combinatorical algebra
+organizers:
+  - Gunnar Fløystad
+  - Lisa Nicklasson
+  - Peder Thompson
 ---
-**CommutativeOrganized by Gunnar Fløystad, Lisa Nicklasson and Peder Thompson.

@@ -1,4 +1,4 @@
 ---
-layout: default
+layout: session
+title: Contributed talks
 ---
-..

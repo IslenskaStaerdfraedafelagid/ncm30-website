@@ -1,4 +1,8 @@
 ---
-layout: default
+layout: session
+title: General relativity and geometric analysis
+organizers:
+  - Romain Gicquaud
+  - Klaus Kröncke
+  - Anna Sakovich
 ---
-Organized by Romain Gicquaud, Klaus Kröncke and Anna Sakovich.

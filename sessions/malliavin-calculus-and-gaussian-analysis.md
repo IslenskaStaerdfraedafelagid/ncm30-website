@@ -1,4 +1,11 @@
 ---
-layout: default
+layout: session
+title: Malliavin Calculus and Gaussian Analysis
+organizers:
+  - Wolfgang Bock
+  - Martin Friesen
+  - Salvador Ortiz Lattore
+  - Giulia Di Nunno
+  - Tommi Sottinen
+  - Lauri Viitasaari
 ---
-Organized by Wolfgang Bock, Martin Friesen, Salvador Ortiz Lattore, Giulia Di Nunno,Tommi Sottinen and Lauri Viitasaari.

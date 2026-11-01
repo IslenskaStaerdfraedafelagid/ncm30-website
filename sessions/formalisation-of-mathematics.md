@@ -1,4 +1,8 @@
 ---
-layout: default
+layout: session
+title: Formalisation of mathematics
+organizers:
+  - Peter LeFanu Lumsdaine
+  - Rasmus Ejlers Møgelberg
+  - Tarmo Uustalu
 ---
-Organized by Peter LeFanu Lumsdaine, Rasmus Ejlers Møgelberg and Tarmo Uustalu.

@@ -1,4 +1,7 @@
 ---
-layout: default
+layout: session
+title: Analysis on symmetric spaces and applications
+organizers:
+ - Bjorn Birnir
+ - Gestur Ólafsson
 ---
-Organized by Bjorn Birnir, Gestur Ólafsson.

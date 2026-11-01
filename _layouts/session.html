@@ -1,0 +1,19 @@
+{% include partials/header.html %}
+
+<H1> {{ page.title }} </H1>
+
+{% if page.organizers %}
+<H2> {{ page.subtitle }} </H2>
+{% endif %}
+
+{% if page.organizers %}
+  <ul class = "tags">
+    {% for organizer in page.organizers %}
+      <li>{{ organizer }}</li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+{{ content }}
+
+{% include partials/footer.html %}

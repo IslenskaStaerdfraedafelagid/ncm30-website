@@ -1,4 +1,7 @@
 ---
-layout: default
+layout: session
+title: Algebraic coding theory
+organizers:
+  - Johan Vester Dinesen
+  - Matteo Bonini
 ---
-**Algebraic coding tOrganized by Johan Vester Dinesen and Matteo Bonini.

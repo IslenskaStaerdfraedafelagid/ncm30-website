@@ -1,4 +1,8 @@
 ---
-layout: default
+layout: session
+title: Graphs, algebra and related structures
+organizers:
+  - Aida Abiad
+  - Arnbjörg Soffía Árnadóttir
+  - Sabrina Lato
 ---
-Organized by Aida Abiad, Arnbjörg Soffía Árnadóttir and Sabrina Lato.

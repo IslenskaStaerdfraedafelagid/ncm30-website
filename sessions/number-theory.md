@@ -1,4 +1,7 @@
 ---
-layout: default
+layout: session
+title: Number theory
+organizers:
+  - Andrii Bondarenko
+  - Fabien Pazuki
 ---
-Organized by Andrii Bondarenko and Fabien Pazuki.
