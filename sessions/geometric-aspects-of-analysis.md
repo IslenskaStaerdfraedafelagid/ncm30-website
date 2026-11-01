@@ -5,5 +5,5 @@ organizers:
   - Katrin Fässler
   - Pekka J. Pankka
   - Toumas Orponen
-  - Villa Suomala.
+  - Villa Suomala
 ---
