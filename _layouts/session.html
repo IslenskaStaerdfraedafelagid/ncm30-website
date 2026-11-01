@@ -6,6 +6,11 @@
 <H2> {{ page.subtitle }} </H2>
 {% endif %}
 
+{{ content }}
+
+<H4> Program: To be determined.</H4>
+
+<H4> Organizers: </H4>
 {% if page.organizers %}
   <ul class = "tags">
     {% for organizer in page.organizers %}
@@ -13,7 +18,5 @@
     {% endfor %}
   </ul>
 {% endif %}
-
-{{ content }}
 
 {% include partials/footer.html %}
