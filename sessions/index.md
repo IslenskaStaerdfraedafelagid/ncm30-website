@@ -36,5 +36,5 @@ If you wish to give a contributed talk or if you wish to present a poster,
 * [Partial differential equations](partial-differential-equations)
 * [Probability and random structures](probability-and-random-structures)
 * [Pseudoholomorphic curve invariants and representation theory](pseudoholomorphic-curve-invariants-and-representation-theory)
-* [Representation theory, harmonic analysis, and homogeneous spaces](representation-theory,-harmonic-analysis,-and-homogeneous-spaces)
+* [Representation theory, harmonic analysis, and homogeneous spaces](representation-theory-harmonic-analysis-and-homogeneous-spaces)
 
