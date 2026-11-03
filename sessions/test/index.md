@@ -23,8 +23,6 @@ speakers:
 
   - name: Speaker 7
     slot: 2-13:30
-  - name: Speaker 8
-    slot: 2-14:00
   - name: Speaker 9
     slot: 2-14:30
 
