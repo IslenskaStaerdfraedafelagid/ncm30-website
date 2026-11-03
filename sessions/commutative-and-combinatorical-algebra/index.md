@@ -1,6 +1,6 @@
 ---
 layout: session
-tile: Commutative and combinatorical algebra
+title: Commutative and combinatorical algebra
 organizers:
   - Gunnar Fløystad
   - Lisa Nicklasson

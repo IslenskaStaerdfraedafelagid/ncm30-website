@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: session
 title: Complex analysis and geometry
 organizers:
  - Álfheiður Edda Sigurðardóttir
