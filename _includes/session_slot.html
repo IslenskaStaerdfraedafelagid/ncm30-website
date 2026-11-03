@@ -1,0 +1,17 @@
+{% assign found_speaker = false %}
+
+{% for speaker in include.speakers %}
+  {% if speaker.slot == include.slot %}
+    {% assign found_speaker = true %}
+
+    {% if speaker.link %}
+      <a href="{{ speaker.link }}">{{ speaker.name }}</a>
+    {% else %}
+      {{ speaker.name }}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% unless found_speaker %}
+  <i>No talk</i>
+{% endunless %}
