@@ -1,6 +1,6 @@
 ---
 layout: session
-title: Contributed talks
+id: contributed-talks
 ---
 The *Contributed session* is for talks that do not fit into one of the other sessions.
 If you wish to give a contributed talk,

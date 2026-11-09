@@ -1,7 +1,4 @@
 ---
 layout: session
-title: Partial differential equations
-organizers:
-  - Didier Pilod
-  - Ulrik Skre Fjordholm
+id: partial-differential-equations
 ---

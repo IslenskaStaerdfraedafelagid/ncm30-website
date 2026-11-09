@@ -173,3 +173,229 @@ conference:
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true
+
+
+
+
+sessions:
+  - id: plenary
+    speakers:
+      - name: Speaker 1
+        link: speaker1
+      - name: Speaker 2
+        link: speaker2
+      - name: Speaker 3
+        link: speaker3
+
+  - id: test
+    title: Test session that is not linked to
+    organizers:
+      - Bergur Snorrason
+      - Benedikt Steinar Magnússon
+    speakers:
+      - name: Speaker 1
+        slot: 1-13:30
+        link: speaker1
+      - name: Speaker 2
+        slot: 1-14:00
+      - name: Speaker 3
+        slot: 1-14:30
+        link: speaker3
+      - name: Speaker 4
+        slot: 1-15:30
+      - name: Speaker 5
+        slot: 1-16:00
+      - name: Speaker 6
+        slot: 1-16:30
+
+      - name: Speaker 7
+        slot: 2-13:30
+      - name: Speaker 9
+        slot: 2-14:30
+
+      - name: Speaker 10
+        slot: 3-13:30
+      - name: Speaker 11
+        slot: 3-14:00
+      - name: Speaker 12
+        slot: 3-14:30
+      - name: Speaker 13
+        slot: 3-15:30
+      - name: Speaker 14
+        slot: 3-16:00
+      - name: Speaker 15
+        slot: 3-16:30
+
+  - id: advances-in-multiscale-and-homogenization-methods
+    title: Advances in multiscale and homogenization methods
+    subtitle: From theory to applications
+    organizers:
+      - Carina Bringedal
+      - Tobias Gebäck
+      - Adrian Muntean
+      - Irina Pettersson.
+
+  - id: algebraic-coding-theory
+    title: Algebraic coding theory
+    organizers:
+      - Johan Vester Dinesen
+      - Matteo Bonini
+
+  - id: algebraic-topology
+    title: Algebraic topology
+
+
+  - id: analysis-on-symmetric-spaces-and-applications
+    title: Analysis on symmetric spaces and applications
+    organizers:
+      - Bjorn Birnir
+      - Gestur Ólafsson
+
+  - id: arithmetic-spectral-theory-and-mathematical-physics
+    title: Arithmetic spectral theory and mathematical physics
+    organizers:
+      - Pavel Kurasov
+      - Tuomas Sahlsten
+
+  - id: automorphisms-of-riemann-surfaces-and-related-topics
+    title: Automorphisms of Riemann surfaces and related topics
+    subtitle: in Honor to S. Allen Broughton
+    organizers:
+      - Antonio F. Costa
+      - Milagros Izquierdo
+      - Aaron Wootton
+
+  - id: commutative-and-combinatorical-algebra
+    title: Commutative and combinatorical algebra
+    organizers:
+      - Gunnar Fløystad
+      - Lisa Nicklasson
+      - Peder Thompson
+
+  - id: complex-analysis-and-geometry
+    title: Complex analysis and geometry
+    organizers:
+      - Álfheiður Edda Sigurðardóttir
+      - Håkan Samuelsson Kalm
+      - Jakob Hultgren
+      - Zakarias Sjöström Dyrefelt
+
+  - id: contributed-talks
+    title: Contributed talks
+
+
+  - id: formalisation-of-mathematics
+    title: Formalisation of mathematics
+    organizers:
+      - Peter LeFanu Lumsdaine
+      - Rasmus Ejlers Møgelberg
+      - Tarmo Uustalu
+
+
+  - id: general-relativity-and-geometric-analysis
+    title: General relativity and geometric analysis
+    organizers:
+      - Romain Gicquaud
+      - Klaus Kröncke
+      - Anna Sakovich
+
+  - id: geometric-aspects-of-analysis
+    title: Geometric aspects of analysis
+    organizers:
+      - Katrin Fässler
+      - Pekka J. Pankka
+      - Toumas Orponen
+      - Villa Suomala
+
+  - id: graphs-algebra-and-related-structures
+    title: Graphs, algebra and related structures
+    organizers:
+      - Aida Abiad
+      - Arnbjörg Soffía Árnadóttir
+      - Sabrina Lato
+
+  - id: interacting-systems-and-kinetic-theory
+    title: Interacting systems and kinetic theory
+    organizers:
+      - Jani Lukkarinen
+      - Sebastian Throm
+
+  - id: malliavin-calculus-and-gaussian-analysis
+    title: Malliavin Calculus and Gaussian Analysis
+    organizers:
+      - Wolfgang Bock
+      - Martin Friesen
+      - Salvador Ortiz Lattore
+      - Giulia Di Nunno
+      - Tommi Sottinen
+      - Lauri Viitasaari
+
+  - id: mathematical-logic
+    title: Mathematical logic
+    organizers:
+      - Åsa Hirvonen
+      - Fredrik Engström
+
+  - id: mathematics-of-imaging-and-inverse-problems
+    title: Mathematics of imaging and inverse problems
+    organizers:
+      - Hyvönen Nuutti
+      - Kim Knudsen
+
+  - id: mathematics-of-quantum-theory
+    title: Mathematics of quantum theory
+    organizers:
+      - Søren Fournais
+      - Jan Philip Solovej
+
+  - id: number-theory
+    title: Number theory
+    organizers:
+      - Andrii Bondarenko
+      - Fabien Pazuki
+
+  - id: numerical-methods-for-partial-differential-equations
+    title: Numerical methods for partial differential equations
+    organizers:
+      - Antti Hannukainen
+      - Rolf Stenberg
+      - Juha Videman
+
+  - id: partial-differential-equations
+    title: Partial differential equations
+    organizers:
+      - Didier Pilod
+      - Ulrik Skre Fjordholm
+
+  - id: probability-and-random-structures
+    title: Probability and random structures
+    organizers:
+      - Jakob Björnberg
+      - Sigurður Örn Stefánsson.
+
+  - id: pseudoholomorphic-curve-invariants-and-representation-theory
+    title: Pseudoholomorphic curve invariants and representation theory
+    organizers:
+      - Tobias Ekholm
+      - Martin Herschend
+      - Thomas Kragh
+      - Georgios Dimitroglou Rizell
+
+  - id: representation-theory-harmonic-analysis-and-homogeneous-spaces
+    title: Representation theory, harmonic analysis, and homogeneous spaces
+    organizers:
+      - Genkai Zhang
+      - Gestur Ólafsson
+      - Jan Frahm
+    speakers:
+    - name: Erik van den Ban
+      affiliation: Utrecht University
+      slot: 1-13:30
+      link: ban
+
+
+
+
+
+
+

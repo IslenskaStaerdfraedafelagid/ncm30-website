@@ -1,9 +1,11 @@
 {% include partials/header.html %}
 
-<H1> {{ page.title }} </H1>
+{% assign info = site.sessions | where: "id", page.id | first %}
 
-{% if page.organizers %}
-<H2> {{ page.subtitle }} </H2>
+<H1> {{ info.title }} </H1>
+
+{% if info.subtitle %}
+<H2> {{ info.subtitle }} </H2>
 {% endif %}
 
 {{ content }}
@@ -29,37 +31,37 @@
     <tr>
       <td>13:30-14:00</td>
       <td>
-        {% include session_slot.html speakers=page.speakers slot="1-13:30" %}
+        {% include session_slot.html speakers=info.speakers slot="1-13:30" %}
       </td>
       <td>
-        {% include session_slot.html speakers=page.speakers slot="2-13:30" %}
+        {% include session_slot.html speakers=info.speakers slot="2-13:30" %}
       </td>
       <td>
-        {% include session_slot.html speakers=page.speakers slot="3-13:30" %}
+        {% include session_slot.html speakers=info.speakers slot="3-13:30" %}
       </td>
     </tr>
     <tr>
       <td>14:00-14:30</td>
       <td>
-        {% include session_slot.html speakers=page.speakers slot="1-14:00" %}
+        {% include session_slot.html speakers=info.speakers slot="1-14:00" %}
       </td>
       <td>
-        {% include session_slot.html speakers=page.speakers slot="2-14:00" %}
+        {% include session_slot.html speakers=info.speakers slot="2-14:00" %}
       </td>
       <td>
-        {% include session_slot.html speakers=page.speakers slot="3-14:00" %}
+        {% include session_slot.html speakers=info.speakers slot="3-14:00" %}
       </td>
     </tr>
     <tr>
       <td>14:30-15:00</td>
       <td>
-        {% include session_slot.html speakers=page.speakers slot="1-14:30" %}
+        {% include session_slot.html speakers=info.speakers slot="1-14:30" %}
       </td>
       <td>
-        {% include session_slot.html speakers=page.speakers slot="2-14:30" %}
+        {% include session_slot.html speakers=info.speakers slot="2-14:30" %}
       </td>
       <td>
-        {% include session_slot.html speakers=page.speakers slot="3-14:30" %}
+        {% include session_slot.html speakers=info.speakers slot="3-14:30" %}
       </td>
     </tr>
     <tr>
@@ -71,31 +73,31 @@
     <tr>
       <td>15:30-16:00</td>
       <td>
-        {% include session_slot.html speakers=page.speakers slot="1-15:30" %}
+        {% include session_slot.html speakers=info.speakers slot="1-15:30" %}
       </td>
       <td></td>
       <td>
-        {% include session_slot.html speakers=page.speakers slot="3-15:30" %}
+        {% include session_slot.html speakers=info.speakers slot="3-15:30" %}
       </td>
     </tr>
     <tr>
       <td>16:00-16:30</td>
       <td>
-        {% include session_slot.html speakers=page.speakers slot="1-16:00" %}
+        {% include session_slot.html speakers=info.speakers slot="1-16:00" %}
       </td>
       <td></td>
       <td>
-        {% include session_slot.html speakers=page.speakers slot="3-16:00" %}
+        {% include session_slot.html speakers=info.speakers slot="3-16:00" %}
       </td>
     </tr>
     <tr>
       <td>16:30-17:00</td>
       <td>
-        {% include session_slot.html speakers=page.speakers slot="1-16:30" %}
+        {% include session_slot.html speakers=info.speakers slot="1-16:30" %}
       </td>
       <td></td>
       <td>
-        {% include session_slot.html speakers=page.speakers slot="3-16:30" %}
+        {% include session_slot.html speakers=info.speakers slot="3-16:30" %}
       </td>
     </tr>
   </tbody>
@@ -104,9 +106,9 @@
 <br>
 
 <H4> Organizers: </H4>
-{% if page.organizers %}
+{% if info.organizers %}
   <ul class = "tags">
-    {% for organizer in page.organizers %}
+    {% for organizer in info.organizers %}
       <li>{{ organizer }}</li>
     {% endfor %}
   </ul>

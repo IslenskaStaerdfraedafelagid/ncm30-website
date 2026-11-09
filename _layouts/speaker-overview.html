@@ -10,38 +10,74 @@
 
   {{ content }}
 
-  <div class="speakerlist">
-    {% assign cur_letter = false %}
-    {% assign speakers = site.speakers | sort_natural: 'last_name' %}
-    {% for speaker in speakers %}
-
-      {% assign last_letter = speaker.last_name | slice: 0 | capitalize %}
-      {% if cur_letter != last_letter %}
-        {% if cur_letter %}
-            </ul>
-          </div>
-        {% endif %}
-
-        {% assign cur_letter = last_letter %}
-        <div class="speakergroup">
-          <h3>{{ cur_letter }}</h3>
-          <ul class="list-unstyled">
-      {% endif %}
-
-      <li class="font-weight-light">
+<div id="speakerlist" class="speakerlist">
+  <ul id="speaker-items" class="list-unstyled">
+    {% for speaker in site.speakers %}
+      <li class="speaker font-weight-light" data-name="{{ speaker.name | escape }}">
         {% if speaker.hide %}
-          {{ speaker.first_name }} {{ speaker.last_name }}
+          {{ speaker.name | escape }}
         {% else %}
-          <a href="{{ speaker.url | prepend: site.baseurl }}">
-            {{ speaker.first_name }} {{ speaker.last_name }}
+          <a href="{{ speaker.url | prepend: site.baseurl | escape }}">
+            {{ speaker.name | escape }}
           </a>
         {% endif %}
+        (Plenary speaker)
       </li>
-
     {% endfor %}
 
-      </ul>
-    </div>
-  </div>
+    {% for session in site.sessions %}
+      {% for speaker in session.speakers %}
+        <li class="speaker font-weight-light" data-name="{{ speaker.name | escape }}">
+          {% if speaker.link and speaker.link != "" %}
+            <a href="{{ site.baseurl }}/sessions/{{ session.id | escape }}/{{ speaker.link | escape }}">{{ speaker.name | escape }}</a>
+          {% else %}
+            {{ speaker.name | escape }}
+          {% endif %}
+        </li>
+      {% endfor %}
+    {% endfor %}
+  </ul>
+</div>
 
-{% include partials/footer.html %}
+<script>
+  const list = document.querySelector("#speakerlist");
+  const sourceList = document.querySelector("#speaker-items");
+  const speakers = Array.from(sourceList.querySelectorAll(".speaker"));
+
+  function surname(name) {
+    return name.trim().split(/\s+/).pop();
+  }
+
+  speakers.sort((a, b) =>
+    surname(a.dataset.name).localeCompare(surname(b.dataset.name))
+      || a.dataset.name.localeCompare(b.dataset.name)
+  );
+
+  let currentLetter = "";
+  let groupList;
+
+  for (const speaker of speakers) {
+    const letter = surname(speaker.dataset.name).charAt(0).toLocaleUpperCase();
+
+    if (letter !== currentLetter) {
+      currentLetter = letter;
+
+      const group = document.createElement("div");
+      group.className = "speakergroup";
+
+      const heading = document.createElement("h3");
+      heading.textContent = letter;
+
+      groupList = document.createElement("ul");
+      groupList.className = "list-unstyled";
+
+      group.append(heading, groupList);
+      list.appendChild(group);
+    }
+
+    groupList.appendChild(speaker);
+  }
+
+  sourceList.remove();
+</script>
+

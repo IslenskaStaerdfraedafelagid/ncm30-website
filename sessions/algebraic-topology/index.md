@@ -1,4 +1,4 @@
 ---
 layout: session
-title: Algebraic topology
+id: algebraic-topology
 ---
