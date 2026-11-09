@@ -25,7 +25,7 @@ If you wish to give a contributed talk or if you wish to present a poster,
 * [Formalisation of mathematics](formalisation-of-mathematics)
 * [General relativity and geometric analysis](general-relativity-and-geometric-analysis)
 * [Geometric aspects of analysis](geometric-aspects-of-analysis)
-* [Graphs, algebra and related structures](graphs,-algebra-and-related-structures)
+* [Graphs, algebra and related structures](graphs-algebra-and-related-structures)
 * [Interacting systems and kinetic theory](interacting-systems-and-kinetic-theory)
 * [Malliavin Calculus and Gaussian Analysis](malliavin-calculus-and-gaussian-analysis)
 * [Mathematical logic](mathematical-logic)
